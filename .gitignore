@@ -1,0 +1,7 @@
+node_modules/
+.vscode/
+npm-debug.log
+public/dist/
+.env.development
+.env.test
+.eslintrc.json
